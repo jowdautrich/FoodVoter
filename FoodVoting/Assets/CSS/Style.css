@@ -1,0 +1,20 @@
+﻿body {
+    font-size: 24px;
+}
+
+.body-width {
+    width: 240px;
+}
+
+.tb-voter {
+    width: 240px;
+    display: inline !important;
+}
+
+.btn-xl {
+    padding: 10px 20px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+
